@@ -49,14 +49,3 @@ This project involves designing and developing a fully functional, responsive e-
 ![Contact and Cart Screenshot](images/contact_cart.png)
 *Figure 3: Combined view illustrating the functional communication form alongside the active shopping cart drawer preview.*
 
----
-
-## Repository Structure
-The structure of this project repository is organized cleanly as follows:
-
-```text
-├── images/
-│   ├── homepage.png
-│   ├── product_page.png
-│   └── contact_cart.png
-└── README.md
