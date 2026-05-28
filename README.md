@@ -9,8 +9,8 @@
 
 ## Project Title: EcoThread Apparel Stores
 * **Platform Used:** Shopify
-* **Live Website Link:** [https://github.com/WARIDU123/my-project/edit/main/README.md]
-* **GitHub Repository Link:** [https://admin.shopify.com/store/kigalitech/themes/145949261898/editor]
+* **Live Website Link:** [https://admin.shopify.com/store/kigalitech/themes/145949261898/editor]
+* **GitHub Repository Link:** [https://github.com/WARIDU123/my-project/edit/main/README.md]
 
 ---
 
