@@ -1,9 +1,9 @@
 # E-Commerce Website Development Project
 
 ## Student Information
-* **Student Name:** [Your Full Name]
-* **Student ID:** [Your Student ID]
-* **Course/Class:** [Your Course Name / Batch
+* **Student Name:** [Fabrice Muhirwa]
+* **Student ID:** [22139/2023]
+* **Course/Class:** [E-commerce and web application/ Batch
 
 ---
 
